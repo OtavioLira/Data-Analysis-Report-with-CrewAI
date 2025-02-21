@@ -1,6 +1,6 @@
 # Customer Data Analysis Report with CrewAI
 
-![Project Image](project-image-url)
+![Project Image](project-image-url.png)
 
 > A data analysis project using CrewAI to generate insights and visualizations from customer data.
 
